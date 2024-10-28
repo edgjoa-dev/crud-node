@@ -1,0 +1,22 @@
+# Archivos y carpetas que no deben incluirse en la imagen Docker
+
+# Ignora los archivos de desarrollo y pruebas
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignora los archivos de configuración local
+.env
+
+# Ignora los archivos de registro
+logs/
+*.log
+
+# Prisma
+/prisma/*
+
+# Ignorar archivos de configuración locales
+*.env
+*.log
+coverage
+*.md
