@@ -40,7 +40,7 @@ Este proyecto muestra cómo crear una aplicación CRUD utilizando Node.js, Docke
 6. [Paso 5: Configuración de Dockerfile para diferentes stages](#paso-5-configuración-de-dockerfile-para-diferentes-stages)
 7. [Paso 6: Configuración de CI/CD](#paso-6-configuración-de-cicd)
 8. [Paso 7: Verificación de la base de datos en TablePlus](#paso-7-verificación-de-la-base-de-datos-en-tableplus)
-9.[Paso 8: testing con Jest](#paso-8-testing-con-jest)
+9. [Paso 8: testing con Jest](#paso-8-testing-con-jest)
 10. [Información adicional:](#información-adicional)
 
 ---
