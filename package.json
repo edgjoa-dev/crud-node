@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node dist/index.js",
     "dev": "nodemon src/index.js",
-    "test": "jest --watchAll"
+    "test": "jest",
+    "test:dev": "jest --watchAll"
   },
   "author": "Edgar Joaquin Flores",
   "license": "MIT",
